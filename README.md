@@ -44,24 +44,23 @@
 
 ---
 
-## 🌐 Connect with Me
+<!-- ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/yourusername/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+-->
 
-📍 **Location**: Dhaka, Bangladesh  
-📧 **Email**: youremail@example.com  
-📱 **Phone**: +8801XXXXXXXXX
+📧 **Email**: karimrupo21@gmail.com  
+📱 **Phone**: +8801309645377
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahedul-Karim&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahedul-Karim&layout=compact&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahedul-Karim&theme=default" />
 </p>
 
 ---
