@@ -57,6 +57,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahedul-Karim&show_icons=true&theme=default" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?username=Mahedul-Karim)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=Mahedul-Karim" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahedul-Karim&layout=compact&theme=default" />
 </p>
