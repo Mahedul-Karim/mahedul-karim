@@ -4,7 +4,6 @@
 </p>
 
 <h2>Hey 👋, I'm Mahedul Karim</h2>
----
 
 ## 👨‍💻 About Me
 
