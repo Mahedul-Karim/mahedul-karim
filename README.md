@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner" />
+  <img src="https://www.canva.com/design/DAGvepWUr10/_0EAuYcS7xGZduCpjE7LkQ/edit?utm_content=DAGvepWUr10&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner" />
 </p>
 
 <h2>Hey 👋, I'm Mahedul Karim</h2>
