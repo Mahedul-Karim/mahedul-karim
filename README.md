@@ -3,7 +3,7 @@
   <img src="https://yourdomain.com/your-banner-image.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mahedul Karim</h1>
+<h2>Hey 👋, I'm Mahedul Karim</h2>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 ---
@@ -24,7 +24,6 @@
 
 ## 🛠️ Skills
 
-### 💻 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
@@ -32,10 +31,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
