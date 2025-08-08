@@ -61,24 +61,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mahedul-Karim&show_icons=true&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahedul-Karim&layout=compact&theme=default" />
 </p>
-
----
-
-## 📌 Pinned Projects
-
-### 1. 🧭 Tourism Website
-- **Live**: [Visit Site](https://your-tourism-project.netlify.app)
-- **Tech Used**: React, Tailwind CSS, Firebase
-- **Repo**: [GitHub](https://github.com/yourusername/tourism-website)
-
-### 2. 🛒 E-commerce Shop
-- **Live**: [Visit Site](https://your-shop.netlify.app)
-- **Tech Used**: React, Redux Toolkit, Stripe
-- **Repo**: [GitHub](https://github.com/yourusername/ecommerce-app)
-
-### 3. 📝 Blog Platform
-- **Live**: [Visit Site](https://your-blog-site.vercel.app)
-- **Tech Used**: Next.js, MongoDB, Tailwind CSS
-- **Repo**: [GitHub](https://github.com/yourusername/blog-platform)
-
-
